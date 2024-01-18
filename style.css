@@ -1,0 +1,14 @@
+* {
+    font-family: 'Lucida Sans', 'Times New Roman';
+    background-color: aquamarine;
+  }
+p {
+    color: blueviolet;
+    font-weight: bold;
+}
+#para1 {
+    color: red;
+}
+.class{
+  background-color: bisque;
+}
